@@ -1,0 +1,9 @@
+This file contains all the tasks that have been performed or will be performed in future.
+
+Task: Making animations with python turtle programming.
+
+1. Fibonacci spiral - Done
+2. Spiral triangle - Done
+3. Stars in the Sky - Done
+4. Double Pendulum - To do
+5. Projectile motion - Work in progress.
